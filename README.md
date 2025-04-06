@@ -1,0 +1,1 @@
+A full-stack CRUD application built with React, Tailwind CSS, Redux Toolkit, Node.js, Express, and MongoDB. Users can add product details via form inputs and view them in a list with options to view, edit, or delete each product. Backend handles data storage and operations with secure API routes.
